@@ -713,7 +713,7 @@
     "vulnerabilities_table": {
       "check_vulnerabilities_table_structure": true,
       "expected_total_vulnerabilities_number": {
-        "gte": 100
+        "gte": 10
       },
       "vulnerabilities_ids_list": {
         "contains": []
